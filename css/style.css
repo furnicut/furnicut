@@ -482,7 +482,7 @@ section.img_categories_style1 {
 
 /************* <!--Accessoties section end -->*******************/
 
-/************* <!-- Interior Work section start -->*******************/
+/************* <!-- Residential section start -->*******************/
 
 .Interior_Work_heading {
     font-size: 2.3rem;
@@ -519,7 +519,46 @@ section.img_categories_style1 {
     margin-right: 0;
 }
 
-/************* <!-- Interior Work section end -->*******************/
+/************* <!-- Residential section end -->*******************/
+
+/************* <!-- Commercial section start -->*******************/
+
+.Interior_Work_heading {
+    font-size: 2.3rem;
+    text-align: center;
+    position: relative;
+    margin-bottom: 0.2rem;
+    margin-top: 0.5rem;
+    color: #eee;
+}
+
+.set_interior_img img {
+    width: 100%;
+    height: 100%;
+}
+.interior_img_col_1 {
+    overflow: hidden;
+    margin-bottom: 2.7rem;
+}
+.set_interior_img {
+    width: 48rem;
+    height: 32rem;
+    float: left;
+    margin-right: 3rem;
+    cursor: pointer;
+    background-color: white;
+    padding: .7rem;
+}
+
+.interior_img_galarray {
+    overflow: hidden;
+}
+
+.set_interior_img:last-child {
+    margin-right: 0;
+}
+
+/************* <!-- Commercial section end -->*******************/
 
 /************* <!-- Running Project section start -->*******************/
 
@@ -560,32 +599,32 @@ section.img_categories_style1 {
 
 /************* <!-- Running Project section End -->*******************/
 
-/* <!-- costomize Work solution start--> */
+/* <!-- customize Work solution start--> */
 
-.costomize_all {
+.customize_all {
     overflow: hidden;
 }
 
-.costom_img_galarry_Title {
+.custom_img_galarry_Title {
     width: 95rem;
     float: left;
     margin-right: 3rem;
 }
 
-.costomer_comment_form {
+.customer_comment_form {
     overflow: hidden;
 }
 
-.costom_title {
+.custom_title {
     text-align: center;
     font-size: 1.6rem;
     color: #fff;
     font-size: 25px;
 }
 
-.costom_img_glarry_row {overflow: hidden;}
+.custom_img_glarry_row {overflow: hidden;}
 
-.costom_img_set {
+.custom_img_set {
     width: 30.34rem;
     height: 20.8rem;
     float: left;
@@ -596,21 +635,21 @@ section.img_categories_style1 {
     cursor: pointer;
 }
 
-.costom_img_set img {
+.custom_img_set img {
     height: 100%;
     width: 100%;
 }
-.costom_img_set:nth-child(3) {
+.custom_img_set:nth-child(3) {
     margin-right: 0;
 }
 
-.costom_img_set:last-child {
+.custom_img_set:last-child {
     margin: 0;
 }
 
-/* costomer input from start */
+/* customer input from start */
 
-.costom_from_heading {
+.custom_from_heading {
     text-align: center;
     font-size: 1.6rem;
     color: #fff;
@@ -740,7 +779,7 @@ section.img_categories_style1 {
 
 /* input from End */
 
-/* <!-- costomize Work solution End--> */
+/* <!-- customize Work solution End--> */
 
 
 /************* <!-- Quality Product section Start -->*******************/
@@ -776,7 +815,7 @@ section.img_categories_style1 {
 
 .Support_img_glarry_row {
     background: #3f4d60;
-    border-radius: 40px;
+    border-radius: 25px;
 }
 
 .Support_img_set {
